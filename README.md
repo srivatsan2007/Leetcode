@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/srivatsan2007/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/srivatsan2007/Leetcode/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srivatsan2007/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srivatsan2007/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
