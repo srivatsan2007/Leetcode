@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/srivatsan2007/Leetcode/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/srivatsan2007/Leetcode/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srivatsan2007/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/srivatsan2007/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/srivatsan2007/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/srivatsan2007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/srivatsan2007/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/srivatsan2007/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/srivatsan2007/Leetcode/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/srivatsan2007/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/srivatsan2007/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/srivatsan2007/Leetcode/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/srivatsan2007/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
