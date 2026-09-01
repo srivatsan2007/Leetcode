@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/srivatsan2007/Leetcode/tree/master/0414-third-maximum-number) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/srivatsan2007/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/srivatsan2007/Leetcode/tree/master/0414-third-maximum-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srivatsan2007/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srivatsan2007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
