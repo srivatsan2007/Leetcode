@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srivatsan2007/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srivatsan2007/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1386-cinema-seat-allocation](https://github.com/srivatsan2007/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/srivatsan2007/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srivatsan2007/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
