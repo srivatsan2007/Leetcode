@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/srivatsan2007/Leetcode/tree/master/1872-stone-game-viii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/srivatsan2007/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -153,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/srivatsan2007/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/srivatsan2007/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
