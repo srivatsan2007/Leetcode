@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/srivatsan2007/Leetcode/tree/master/0414-third-maximum-number) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/srivatsan2007/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/srivatsan2007/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/srivatsan2007/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/srivatsan2007/Leetcode/tree/master/1872-stone-game-viii) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0101-symmetric-tree) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/srivatsan2007/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
