@@ -173,4 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/srivatsan2007/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/srivatsan2007/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
