@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/srivatsan2007/Leetcode/tree/master/0414-third-maximum-number) |
+| [0835-image-overlap](https://github.com/srivatsan2007/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/srivatsan2007/Leetcode/tree/master/1140-stone-game-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/srivatsan2007/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/srivatsan2007/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/srivatsan2007/Leetcode/tree/master/0835-image-overlap) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/srivatsan2007/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Binary Search
 |  |
